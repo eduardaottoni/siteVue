@@ -1,9 +1,10 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import HelloWorld from '@/components/HelloWorld';
+// import HelloWorld from '@/components/HelloWorld';
 import Home from '@/components/Home';
 import About from '@/components/About';
 import Services from '@/components/Services';
+import FindUs from '@/components/FindUs';
 
 Vue.use(Router);
 
@@ -23,6 +24,11 @@ export default new Router({
       path: '/services',
       name: 'Services',
       component: Services,
+    },
+    {
+      path: '/findUs',
+      name: 'FindUs',
+      component: FindUs,
     },
   ],
 });

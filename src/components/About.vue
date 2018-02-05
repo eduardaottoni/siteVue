@@ -2,7 +2,7 @@
   <div class="about">
       <img class="imagemAbout" src="../assets/plaquinha4.jpg">   
   <div class="textoAb">
-      <p> About Us.</p> 
+      <p> About Us</p> 
   </div>
   <div class="cabecalho">
       <p> Lorem ipsum dolor sit amet, </p>
@@ -27,12 +27,13 @@
     height: 100%;
   }
   .textoAb  {
-    color: rgba(255, 102, 0, 0.65);
+    color: rgba(224, 87, 62, 0.85);
     font-size: 80px;
     font-family: Anton;
     right: 110px;
-    bottom: 330px;
+    bottom: 300px;
     position: absolute;
+   /* text-shadow: #000000 1px 2px 2px;*/
 
   }
 

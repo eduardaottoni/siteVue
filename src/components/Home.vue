@@ -14,7 +14,7 @@
       <p> Duda's shop </p>
     </div>
     <div class="texto5">
-      <p> The largest variety store on the internet </p>
+      <p> Lojinea que ajuda a sua lojinea a crescer </p>
     </div>
   </div>
 </template>
